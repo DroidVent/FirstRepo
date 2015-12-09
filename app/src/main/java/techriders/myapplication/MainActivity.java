@@ -45,9 +45,7 @@ public class MainActivity extends ActionBarActivity
         mNavigationDrawerFragment.setUp(
                 R.id.navigation_drawer,
                 (DrawerLayout) findViewById(R.id.drawer_layout));
-        System.out.print("alpha");
-        System.out.print("alpha again");
-        System.out.print("bravo");
+
     }
 
     @Override
